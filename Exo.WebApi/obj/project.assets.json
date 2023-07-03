@@ -8558,24 +8558,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TI GRAU\\.nuget\\packages\\": {}
+    "C:\\Users\\Lula\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TI GRAU\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "L:\\Codigo\\SENAI PROJETO\\SENAI-API-PROJETO\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\TI GRAU\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
-      "packagesPath": "C:\\Users\\TI GRAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TI GRAU\\Downloads\\Exo.WebApi\\obj\\",
+      "projectPath": "L:\\Codigo\\SENAI PROJETO\\SENAI-API-PROJETO\\Exo.WebApi\\Exo.WebApi.csproj",
+      "packagesPath": "C:\\Users\\Lula\\.nuget\\packages\\",
+      "outputPath": "L:\\Codigo\\SENAI PROJETO\\SENAI-API-PROJETO\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TI GRAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8638,7 +8640,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
